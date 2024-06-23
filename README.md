@@ -39,6 +39,11 @@ I'm a passionate software developer with a love for creating innovative solution
 ![Thejan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thejanv&show_icons=true&theme=algolia)
 
 
+## 🔝 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejanv&layout=compact&theme=algolia)
+
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thejanv)
