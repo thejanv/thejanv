@@ -8,9 +8,9 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Advanced JavaScript**
+- 🌱 I’m currently learning **K8s**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, Asp.Net Core**
+- 💬 Ask me about **Cloud Tech**
 - 📫 How to reach me: [thejan.vithanage@outlook.com](mailto:thejan.vithanage@outlook.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love anime and hiking
