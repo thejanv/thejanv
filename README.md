@@ -1,15 +1,12 @@
 # Hello, I'm Thejan Vithanage! 👋
-
 [![GitHub followers](https://img.shields.io/github/followers/thejanv?label=Follow&style=social)](https://github.com/thejanv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/thejanv)
-
 
 I'm a passionate software developer with a love for creating innovative solutions.
 
 ## 🚀 About Me
-
-- 🌱 I’m currently learning **K8s**
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🌱 I'm currently learning **K8s**
+- 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Cloud Tech**
 - 📫 How to reach me: [thejan.vithanage@outlook.com](mailto:thejan.vithanage@outlook.com)
 - 😄 Pronouns: He/Him
@@ -33,19 +30,10 @@ I'm a passionate software developer with a love for creating innovative solution
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![Kubernetes](https://img.shields.io/badge/Kubernetes_(Learning)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## 📈 GitHub Stats
-
-
-![Thejan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thejanv&show_icons=true&theme=algolia)
-
-
-## 🔝 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejanv&layout=compact&theme=algolia)
-
+![Thejan's GitHub stats](https://streak-stats.demolab.com?user=thejanv&theme=algolia)
 
 ## 📫 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thejanv)
